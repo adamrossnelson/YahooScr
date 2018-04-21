@@ -9,6 +9,6 @@ This notebook provides code that will dowload messages from private Yahoo Groups
 Another GitHub.com repository (YahooGroups-Archiver) provided guidance related to accessing private Yahoo Groups.
 
 
-## Yahoo Groups message scraper (YahooScr)
+## Yahoo Groups message scraper (YahooScra.ipynb)
 This notebookprovides code that will dowload messages from private Yahoo Groups. Another notebook ScrapeBuild.jpynb uses reqeusts. This notebook uses Selenium.
 
