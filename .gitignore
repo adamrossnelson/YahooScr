@@ -1,5 +1,6 @@
 .ipnyb_checkpoints
 *.ipnyb_checkpoints
+.DS_Store
 *.log
 *.xlsx
 *.csv
